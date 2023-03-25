@@ -1,6 +1,5 @@
 <h3 style="text-align:center; width:100%">👋 Hi, I’m Hüseyin</h3>
-- 👀 I'm interested in JavaScript:React, PHP:Laravel and CSS< Tailwind, Bootstrap, SCSS > <br>
-- 🌱 I’m currently learning C# and .NET Core <br>
+- 👀 I'm interested in TypeScript: <React, NextJS, NestJS> PHP:Laravel and CSS< Tailwind, Bootstrap, SCSS > <br>
 - 💞️ I want to collaborate on websites and services <br>
 - 📫 <a href="https://www.linkedin.com/in/huseyinatas/">Linkedin</a>
 
